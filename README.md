@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  - 🔭 Interests: EdTech, Statistics and Competitive programming.
+ - 🌱 I’m currently learning Scala.
  - 🏆 Competitive programming: AtCoder Highest 1338, LeetCode Highest 1770
  - 📘 Blog: https://hiramekun.hatenablog.com/
