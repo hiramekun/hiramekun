@@ -18,3 +18,6 @@ Here are some ideas to get you started:
  - 🌱 I’m currently learning Scala.
  - 🏆 Competitive programming: AtCoder Highest 1338, LeetCode Highest 1770
  - 📘 Blog: https://hiramekun.hatenablog.com/
+ 
+ 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
