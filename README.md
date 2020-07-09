@@ -1,4 +1,4 @@
-### Hi there 👋
+### hiramekun🐟
 
 <!--
 **hiramekun/hiramekun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ - 🔭 Interests: EdTech, Statistics and Competitive programming.
+ - 🏆 Competitive programming: AtCoder Highest 1338, LeetCode Highest 1770
+ - 📘 Blog: https://hiramekun.hatenablog.com/
