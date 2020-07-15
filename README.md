@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
  - 🔭 Interests: EdTech, Statistics and Competitive programming.
  - 🌱 I’m currently learning Scala.
- - 🏆 Competitive programming: [AtCoder](https://atcoder.jp/users/hiramekun) Highest 1338, [LeetCode](https://leetcode.com/hiramekun/) Highest 1770
+ - 🏆 Competitive programming: [AtCoder](https://atcoder.jp/users/hiramekun) Highest 1338, [LeetCode](https://leetcode.com/hiramekun/) Highest 1824
  - 📘 Blog: https://hiramekun.hatenablog.com/
  
  
