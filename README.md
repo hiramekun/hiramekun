@@ -19,5 +19,7 @@ Here are some ideas to get you started:
  - 🏆 Competitive programming: [AtCoder](https://atcoder.jp/users/hiramekun) Highest 1338, [LeetCode](https://leetcode.com/hiramekun/) Highest 1824
  - 📘 Blog: https://hiramekun.hatenablog.com/
  
- 
+[![hiramekun's github stats](https://github-readme-stats.vercel.app/api?username=hiramekun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiramekun&hide=jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
