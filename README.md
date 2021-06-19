@@ -1,5 +1,5 @@
 ### hiramekun🐟
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiramekun&count_private=true&show_icons=true&theme=graywhite&line_height=24)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiramekun&hide_title=true&count_private=true&show_icons=true&theme=graywhite&line_height=24)
 
 <!--
 **hiramekun/hiramekun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
