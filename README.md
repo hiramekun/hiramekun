@@ -19,6 +19,7 @@ Here are some ideas to get you started:
  - 🏆 Competitive programming: [AtCoder](https://atcoder.jp/users/hiramekun) Highest 1338, [LeetCode](https://leetcode.com/hiramekun/) Highest 1834
  - 💻 Experiences: Scala, Kotlin, Java, C++, Python, Swift
  - 📘 Blog: https://hiramekun.hatenablog.com/
+ - 📚 Scrapbox: https://scrapbox.io/hiramekun/
  
 <!--
 [![hiramekun's github stats](https://github-readme-stats.vercel.app/api?username=hiramekun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
