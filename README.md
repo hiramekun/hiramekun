@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
  - 🔭 Interests: Education and Statistics.
  - 🏆 Competitive programming: [AtCoder](https://atcoder.jp/users/hiramekun) Highest 1338, [LeetCode](https://leetcode.com/hiramekun/) Highest 1834
+ - 💻 Experiences: Scala, Kotlin, Java, C++, Python, Swift
  - 📘 Blog: https://hiramekun.hatenablog.com/
  
 <!--
